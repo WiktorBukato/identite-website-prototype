@@ -1,0 +1,12 @@
+{
+  "version": "v0.5",
+  "build": "v0.5-work-review-phase-c",
+  "date": "2026-09-10",
+  "locales": [
+    "en-US",
+    "es-MX",
+    "pt-BR"
+  ],
+  "routes_per_locale": 26,
+  "content_sha256": "cb0d8dab9ecce5a369824fa854917eb31ddd88a0efb1ce244817b54e7d5759d8"
+}
