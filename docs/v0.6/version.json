@@ -1,0 +1,12 @@
+{
+  "version": "v0.6",
+  "build": "v0.6-responsive-signoff",
+  "date": "2026-09-11",
+  "locales": [
+    "en-US",
+    "es-MX",
+    "pt-BR"
+  ],
+  "routes_per_locale": 26,
+  "content_sha256": "ff9cb3b04265cc049f988fe136bbb22e21fa3975d0fc32c306fe6e9a7cd8ada0"
+}
