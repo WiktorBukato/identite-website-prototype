@@ -128,8 +128,10 @@ document.querySelectorAll('[data-tabs]').forEach(widget => {
       heading.tabIndex=-1;heading.focus({preventScroll:true});
       // Keep a completed action's explanation and replay visible; arrow navigation stays in its tablist.
       const copy=panels[index].querySelector('.ex-copy:not([hidden])');
-      const rect=copy.getBoundingClientRect(),head=document.querySelector('.st-header');
+      const head=document.querySelector('.st-header');
       const offset=getComputedStyle(head).position==='sticky'?head.getBoundingClientRect().bottom+16:24;
+      const panelBounds=panels[index].getBoundingClientRect();
+      const rect=panelBounds.height<=innerHeight-offset?panelBounds:copy.getBoundingClientRect();
       if(rect.top<offset||Math.min(rect.bottom,rect.top+innerHeight-offset)>innerHeight){
         window.scrollBy({top:rect.top-offset,behavior:motion.matches?'instant':'smooth'});
       }
