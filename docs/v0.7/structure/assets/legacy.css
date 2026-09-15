@@ -1,0 +1,25 @@
+.legacy-main{max-width:1200px;margin:auto;padding:clamp(24px,5vw,80px) clamp(18px,4vw,48px)}
+.legacy-heading{max-width:950px;margin:0 0 32px}.legacy-heading h1{font-size:clamp(2rem,4.4vw,3.7rem);line-height:1.12;overflow-wrap:anywhere}
+.legacy-content{max-width:900px;font-size:1.05rem;line-height:1.75;overflow-wrap:anywhere}
+.legacy-content h2{font-size:clamp(1.4rem,3vw,2rem);line-height:1.25;margin:2.2em 0 .8em}
+.legacy-content h3,.legacy-content h4{line-height:1.35;margin:1.5em 0 .7em}
+.legacy-content p{margin:1em 0}.legacy-content img{display:block;max-width:100%;height:auto;margin:24px auto;object-fit:contain;max-height:800px}
+.legacy-content figure{margin:24px 0}.legacy-content figcaption{font-size:.9rem;color:#50627a}
+.legacy-content a,.legacy-categories a{text-decoration:underline;text-underline-offset:3px}
+.legacy-content table{display:block;width:100%;min-width:0;max-width:100%;overflow:auto;border-collapse:collapse;margin:24px 0}
+.legacy-content td,.legacy-content th{padding:12px;border:1px solid #c9d3de;min-width:120px;text-align:left}
+.legacy-content pre{overflow:auto;padding:20px;background:#eaf0f6}.legacy-content blockquote{border-left:3px solid #1660d2;margin:24px 0;padding:8px 24px}
+.legacy-content [id]{scroll-margin-top:180px}
+.legacy-notice{padding:20px 24px;background:#eef3f7;border-left:4px solid #647c95;margin-bottom:32px;border-radius:0 8px 8px 0;max-width:900px}
+.legacy-notice p{margin:8px 0 0}.legacy-byline{color:#50627a;font-size:.95rem;margin:10px 0 28px}
+.legacy-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;margin:30px 0}
+.legacy-card{background:#fff;border:1px solid #d8e2eb;border-radius:14px;padding:24px;overflow-wrap:anywhere}
+.legacy-card img{width:100%;height:180px;object-fit:contain;background:#f5f8fb;border-radius:8px}
+.legacy-card h2{font-size:1.4rem;line-height:1.3}.legacy-card time{display:block;margin:18px 0 8px;color:#50627a}
+.legacy-categories{display:flex;gap:20px;flex-wrap:wrap;margin:24px 0}
+.legacy-missing{display:block;padding:16px;border:1px dashed #8a9caf;margin:16px 0}
+@media(max-width:950px){.legacy-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.legacy-grid{grid-template-columns:minmax(0,1fr)}.legacy-content{font-size:1rem}.legacy-card{padding:20px}.legacy-heading h1{font-size:2rem}}
+/* Some historical legal pages used headings for whole paragraphs. Preserve
+   their semantics and text, with readable prose sizing in the new shell. */
+.legacy-content .legacy-prose-heading{font-size:1rem;line-height:1.75;font-weight:400;letter-spacing:normal}

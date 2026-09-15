@@ -1,0 +1,2882 @@
+[
+  {
+    "productionPath": "/passwordfree-mfa",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/passwordfree.html"
+  },
+  {
+    "productionPath": "/workforcepasswordlessauthentication",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/nopass.html"
+  },
+  {
+    "productionPath": "/nopass-mfa-desktop-unlock",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/desktop-mfa.html"
+  },
+  {
+    "productionPath": "/passwordfree-mfa-sdk",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/sdk.html"
+  },
+  {
+    "productionPath": "/full-duplex",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/full-duplex.html"
+  },
+  {
+    "productionPath": "/king-arthur",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/king-arthur.html"
+  },
+  {
+    "productionPath": "/sensitive-actions",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/sensitive-actions.html"
+  },
+  {
+    "productionPath": "/trust-and-ai",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/trust-and-ai.html"
+  },
+  {
+    "productionPath": "/integrations",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/integrations.html"
+  },
+  {
+    "productionPath": "/wordpress",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/wordpress.html"
+  },
+  {
+    "productionPath": "/bigcommerce",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/bigcommerce.html"
+  },
+  {
+    "productionPath": "/shopify",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/shopify.html"
+  },
+  {
+    "productionPath": "/solutions",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/solutions.html"
+  },
+  {
+    "productionPath": "/financial-services",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/financial-services.html"
+  },
+  {
+    "productionPath": "/healthcare",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/healthcare.html"
+  },
+  {
+    "productionPath": "/government",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/government.html"
+  },
+  {
+    "productionPath": "/enterprise",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/enterprise.html"
+  },
+  {
+    "productionPath": "/ecommerce",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/ecommerce.html"
+  },
+  {
+    "productionPath": "/resources",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/resources.html"
+  },
+  {
+    "productionPath": "/news",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/news.html"
+  },
+  {
+    "productionPath": "/about-us",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/company.html"
+  },
+  {
+    "productionPath": "/contactsales",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/contact.html"
+  },
+  {
+    "productionPath": "/",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/index.html"
+  },
+  {
+    "productionPath": "/privacy-policy",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/privacy.html"
+  },
+  {
+    "productionPath": "/terms-and-conditions",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/terms.html"
+  },
+  {
+    "productionPath": "/service-level-agreement",
+    "locale": "en-US",
+    "previewFile": "structure/en-US/sla.html"
+  },
+  {
+    "productionPath": "/es/passwordfree-mfa",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/passwordfree.html"
+  },
+  {
+    "productionPath": "/es/workforcepasswordlessauthentication",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/nopass.html"
+  },
+  {
+    "productionPath": "/es/nopass-mfa-desktop-unlock",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/desktop-mfa.html"
+  },
+  {
+    "productionPath": "/es/passwordfree-mfa-sdk",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/sdk.html"
+  },
+  {
+    "productionPath": "/es/full-duplex",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/full-duplex.html"
+  },
+  {
+    "productionPath": "/es/king-arthur",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/king-arthur.html"
+  },
+  {
+    "productionPath": "/es/sensitive-actions",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/sensitive-actions.html"
+  },
+  {
+    "productionPath": "/es/trust-and-ai",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/trust-and-ai.html"
+  },
+  {
+    "productionPath": "/es/integrations",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/integrations.html"
+  },
+  {
+    "productionPath": "/es/wordpress",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/wordpress.html"
+  },
+  {
+    "productionPath": "/es/bigcommerce",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/bigcommerce.html"
+  },
+  {
+    "productionPath": "/es/shopify",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/shopify.html"
+  },
+  {
+    "productionPath": "/es/solutions",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/solutions.html"
+  },
+  {
+    "productionPath": "/es/financial-services",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/financial-services.html"
+  },
+  {
+    "productionPath": "/es/healthcare",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/healthcare.html"
+  },
+  {
+    "productionPath": "/es/government",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/government.html"
+  },
+  {
+    "productionPath": "/es/enterprise",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/enterprise.html"
+  },
+  {
+    "productionPath": "/es/ecommerce",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/ecommerce.html"
+  },
+  {
+    "productionPath": "/es/resources",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/resources.html"
+  },
+  {
+    "productionPath": "/es/news",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/news.html"
+  },
+  {
+    "productionPath": "/es/about-us",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/company.html"
+  },
+  {
+    "productionPath": "/es/contactsales",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/contact.html"
+  },
+  {
+    "productionPath": "/es/",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/index.html"
+  },
+  {
+    "productionPath": "/es/privacy-policy",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/privacy.html"
+  },
+  {
+    "productionPath": "/es/terms-and-conditions",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/terms.html"
+  },
+  {
+    "productionPath": "/es/service-level-agreement",
+    "locale": "es-MX",
+    "previewFile": "structure/es-MX/sla.html"
+  },
+  {
+    "productionPath": "/pt/passwordfree-mfa",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/passwordfree.html"
+  },
+  {
+    "productionPath": "/pt/workforcepasswordlessauthentication",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/nopass.html"
+  },
+  {
+    "productionPath": "/pt/nopass-mfa-desktop-unlock",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/desktop-mfa.html"
+  },
+  {
+    "productionPath": "/pt/passwordfree-mfa-sdk",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/sdk.html"
+  },
+  {
+    "productionPath": "/pt/full-duplex",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/full-duplex.html"
+  },
+  {
+    "productionPath": "/pt/king-arthur",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/king-arthur.html"
+  },
+  {
+    "productionPath": "/pt/sensitive-actions",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/sensitive-actions.html"
+  },
+  {
+    "productionPath": "/pt/trust-and-ai",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/trust-and-ai.html"
+  },
+  {
+    "productionPath": "/pt/integrations",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/integrations.html"
+  },
+  {
+    "productionPath": "/pt/wordpress",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/wordpress.html"
+  },
+  {
+    "productionPath": "/pt/bigcommerce",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/bigcommerce.html"
+  },
+  {
+    "productionPath": "/pt/shopify",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/shopify.html"
+  },
+  {
+    "productionPath": "/pt/solutions",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/solutions.html"
+  },
+  {
+    "productionPath": "/pt/financial-services",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/financial-services.html"
+  },
+  {
+    "productionPath": "/pt/healthcare",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/healthcare.html"
+  },
+  {
+    "productionPath": "/pt/government",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/government.html"
+  },
+  {
+    "productionPath": "/pt/enterprise",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/enterprise.html"
+  },
+  {
+    "productionPath": "/pt/ecommerce",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/ecommerce.html"
+  },
+  {
+    "productionPath": "/pt/resources",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/resources.html"
+  },
+  {
+    "productionPath": "/pt/news",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/news.html"
+  },
+  {
+    "productionPath": "/pt/about-us",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/company.html"
+  },
+  {
+    "productionPath": "/pt/contactsales",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/contact.html"
+  },
+  {
+    "productionPath": "/pt/",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/index.html"
+  },
+  {
+    "productionPath": "/pt/privacy-policy",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/privacy.html"
+  },
+  {
+    "productionPath": "/pt/terms-and-conditions",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/terms.html"
+  },
+  {
+    "productionPath": "/pt/service-level-agreement",
+    "locale": "pt-BR",
+    "previewFile": "structure/pt-BR/sla.html"
+  },
+  {
+    "productionPath": "/become-a-partner",
+    "locale": "en-US",
+    "previewFile": "become-a-partner/index.html"
+  },
+  {
+    "productionPath": "/become-a-partner",
+    "locale": "es-MX",
+    "previewFile": "es/become-a-partner/index.html"
+  },
+  {
+    "productionPath": "/become-a-partner",
+    "locale": "pt-BR",
+    "previewFile": "pt/become-a-partner/index.html"
+  },
+  {
+    "productionPath": "/datasheets",
+    "locale": "en-US",
+    "previewFile": "datasheets/index.html"
+  },
+  {
+    "productionPath": "/datasheets",
+    "locale": "es-MX",
+    "previewFile": "es/datasheets/index.html"
+  },
+  {
+    "productionPath": "/datasheets",
+    "locale": "pt-BR",
+    "previewFile": "pt/datasheets/index.html"
+  },
+  {
+    "productionPath": "/datasheets/nopass-workforce-mfa",
+    "locale": "en-US",
+    "previewFile": "datasheets/nopass-workforce-mfa/index.html"
+  },
+  {
+    "productionPath": "/datasheets/nopass-workforce-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/datasheets/nopass-workforce-mfa/index.html"
+  },
+  {
+    "productionPath": "/datasheets/nopass-workforce-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/datasheets/nopass-workforce-mfa/index.html"
+  },
+  {
+    "productionPath": "/demos",
+    "locale": "en-US",
+    "previewFile": "demos/index.html"
+  },
+  {
+    "productionPath": "/demos",
+    "locale": "es-MX",
+    "previewFile": "es/demos/index.html"
+  },
+  {
+    "productionPath": "/demos",
+    "locale": "pt-BR",
+    "previewFile": "pt/demos/index.html"
+  },
+  {
+    "productionPath": "/end-user-licence-agreement",
+    "locale": "en-US",
+    "previewFile": "end-user-licence-agreement/index.html"
+  },
+  {
+    "productionPath": "/end-user-licence-agreement",
+    "locale": "es-MX",
+    "previewFile": "es/end-user-licence-agreement/index.html"
+  },
+  {
+    "productionPath": "/end-user-licence-agreement",
+    "locale": "pt-BR",
+    "previewFile": "pt/end-user-licence-agreement/index.html"
+  },
+  {
+    "productionPath": "/frequently-asked-questions",
+    "locale": "en-US",
+    "previewFile": "frequently-asked-questions/index.html"
+  },
+  {
+    "productionPath": "/frequently-asked-questions",
+    "locale": "es-MX",
+    "previewFile": "es/frequently-asked-questions/index.html"
+  },
+  {
+    "productionPath": "/frequently-asked-questions",
+    "locale": "pt-BR",
+    "previewFile": "pt/frequently-asked-questions/index.html"
+  },
+  {
+    "productionPath": "/full-duplex-authentication-es",
+    "locale": "en-US",
+    "previewFile": "full-duplex-authentication-es/index.html"
+  },
+  {
+    "productionPath": "/full-duplex-authentication-es",
+    "locale": "es-MX",
+    "previewFile": "es/full-duplex-authentication-es/index.html"
+  },
+  {
+    "productionPath": "/full-duplex-authentication-es",
+    "locale": "pt-BR",
+    "previewFile": "pt/full-duplex-authentication-es/index.html"
+  },
+  {
+    "productionPath": "/full-duplex-authentication-whitepaper",
+    "locale": "en-US",
+    "previewFile": "full-duplex-authentication-whitepaper/index.html"
+  },
+  {
+    "productionPath": "/full-duplex-authentication-whitepaper",
+    "locale": "es-MX",
+    "previewFile": "es/full-duplex-authentication-whitepaper/index.html"
+  },
+  {
+    "productionPath": "/full-duplex-authentication-whitepaper",
+    "locale": "pt-BR",
+    "previewFile": "pt/full-duplex-authentication-whitepaper/index.html"
+  },
+  {
+    "productionPath": "/how-to-use-nopass-mfa",
+    "locale": "en-US",
+    "previewFile": "how-to-use-nopass-mfa/index.html"
+  },
+  {
+    "productionPath": "/how-to-use-nopass-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/how-to-use-nopass-mfa/index.html"
+  },
+  {
+    "productionPath": "/how-to-use-nopass-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/how-to-use-nopass-mfa/index.html"
+  },
+  {
+    "productionPath": "/nopass-whitepaper",
+    "locale": "en-US",
+    "previewFile": "nopass-whitepaper/index.html"
+  },
+  {
+    "productionPath": "/nopass-whitepaper",
+    "locale": "es-MX",
+    "previewFile": "es/nopass-whitepaper/index.html"
+  },
+  {
+    "productionPath": "/nopass-whitepaper",
+    "locale": "pt-BR",
+    "previewFile": "pt/nopass-whitepaper/index.html"
+  },
+  {
+    "productionPath": "/nopass-whitepaper/download",
+    "locale": "en-US",
+    "previewFile": "nopass-whitepaper/download/index.html"
+  },
+  {
+    "productionPath": "/nopass-whitepaper/download",
+    "locale": "es-MX",
+    "previewFile": "es/nopass-whitepaper/download/index.html"
+  },
+  {
+    "productionPath": "/nopass-whitepaper/download",
+    "locale": "pt-BR",
+    "previewFile": "pt/nopass-whitepaper/download/index.html"
+  },
+  {
+    "productionPath": "/passwordfree-webinar-fix-abandoned-carts",
+    "locale": "en-US",
+    "previewFile": "passwordfree-webinar-fix-abandoned-carts/index.html"
+  },
+  {
+    "productionPath": "/passwordfree-webinar-fix-abandoned-carts",
+    "locale": "es-MX",
+    "previewFile": "es/passwordfree-webinar-fix-abandoned-carts/index.html"
+  },
+  {
+    "productionPath": "/passwordfree-webinar-fix-abandoned-carts",
+    "locale": "pt-BR",
+    "previewFile": "pt/passwordfree-webinar-fix-abandoned-carts/index.html"
+  },
+  {
+    "productionPath": "/privacy-policy-for-passwordfree",
+    "locale": "en-US",
+    "previewFile": "privacy-policy-for-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/privacy-policy-for-passwordfree",
+    "locale": "es-MX",
+    "previewFile": "es/privacy-policy-for-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/privacy-policy-for-passwordfree",
+    "locale": "pt-BR",
+    "previewFile": "pt/privacy-policy-for-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/site-map",
+    "locale": "en-US",
+    "previewFile": "site-map/index.html"
+  },
+  {
+    "productionPath": "/site-map",
+    "locale": "es-MX",
+    "previewFile": "es/site-map/index.html"
+  },
+  {
+    "productionPath": "/site-map",
+    "locale": "pt-BR",
+    "previewFile": "pt/site-map/index.html"
+  },
+  {
+    "productionPath": "/support",
+    "locale": "en-US",
+    "previewFile": "support/index.html"
+  },
+  {
+    "productionPath": "/support",
+    "locale": "es-MX",
+    "previewFile": "es/support/index.html"
+  },
+  {
+    "productionPath": "/support",
+    "locale": "pt-BR",
+    "previewFile": "pt/support/index.html"
+  },
+  {
+    "productionPath": "/terms-conditions-for-passwordfree",
+    "locale": "en-US",
+    "previewFile": "terms-conditions-for-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/terms-conditions-for-passwordfree",
+    "locale": "es-MX",
+    "previewFile": "es/terms-conditions-for-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/terms-conditions-for-passwordfree",
+    "locale": "pt-BR",
+    "previewFile": "pt/terms-conditions-for-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/video-accessing-nopass-technical-documentation",
+    "locale": "en-US",
+    "previewFile": "video-accessing-nopass-technical-documentation/index.html"
+  },
+  {
+    "productionPath": "/video-accessing-nopass-technical-documentation",
+    "locale": "es-MX",
+    "previewFile": "es/video-accessing-nopass-technical-documentation/index.html"
+  },
+  {
+    "productionPath": "/video-accessing-nopass-technical-documentation",
+    "locale": "pt-BR",
+    "previewFile": "pt/video-accessing-nopass-technical-documentation/index.html"
+  },
+  {
+    "productionPath": "/videos",
+    "locale": "en-US",
+    "previewFile": "videos/index.html"
+  },
+  {
+    "productionPath": "/videos",
+    "locale": "es-MX",
+    "previewFile": "es/videos/index.html"
+  },
+  {
+    "productionPath": "/videos",
+    "locale": "pt-BR",
+    "previewFile": "pt/videos/index.html"
+  },
+  {
+    "productionPath": "/post/the-wrong-website-is-asking-the-right-person-to-authenticate",
+    "locale": "en-US",
+    "previewFile": "post/the-wrong-website-is-asking-the-right-person-to-authenticate/index.html"
+  },
+  {
+    "productionPath": "/post/the-wrong-website-is-asking-the-right-person-to-authenticate",
+    "locale": "es-MX",
+    "previewFile": "es/post/the-wrong-website-is-asking-the-right-person-to-authenticate/index.html"
+  },
+  {
+    "productionPath": "/post/the-wrong-website-is-asking-the-right-person-to-authenticate",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/the-wrong-website-is-asking-the-right-person-to-authenticate/index.html"
+  },
+  {
+    "productionPath": "/post/passkeys-weren-t-broken-our-assumptions-about-trust-were",
+    "locale": "en-US",
+    "previewFile": "post/passkeys-weren-t-broken-our-assumptions-about-trust-were/index.html"
+  },
+  {
+    "productionPath": "/post/passkeys-weren-t-broken-our-assumptions-about-trust-were",
+    "locale": "es-MX",
+    "previewFile": "es/post/passkeys-weren-t-broken-our-assumptions-about-trust-were/index.html"
+  },
+  {
+    "productionPath": "/post/passkeys-weren-t-broken-our-assumptions-about-trust-were",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/passkeys-weren-t-broken-our-assumptions-about-trust-were/index.html"
+  },
+  {
+    "productionPath": "/post/will-mfa-slow-down-my-work-login",
+    "locale": "en-US",
+    "previewFile": "post/will-mfa-slow-down-my-work-login/index.html"
+  },
+  {
+    "productionPath": "/post/will-mfa-slow-down-my-work-login",
+    "locale": "es-MX",
+    "previewFile": "es/post/will-mfa-slow-down-my-work-login/index.html"
+  },
+  {
+    "productionPath": "/post/will-mfa-slow-down-my-work-login",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/will-mfa-slow-down-my-work-login/index.html"
+  },
+  {
+    "productionPath": "/post/how-long-does-it-take-to-set-up-mfa",
+    "locale": "en-US",
+    "previewFile": "post/how-long-does-it-take-to-set-up-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/how-long-does-it-take-to-set-up-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/post/how-long-does-it-take-to-set-up-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/how-long-does-it-take-to-set-up-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/how-long-does-it-take-to-set-up-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/the-new-identity-crisis-why-ai-is-forcing-us-to-rethink-fraud-authentication-and-digital-trust",
+    "locale": "en-US",
+    "previewFile": "post/the-new-identity-crisis-why-ai-is-forcing-us-to-rethink-fraud-authentication-and-digital-trust/index.html"
+  },
+  {
+    "productionPath": "/post/the-new-identity-crisis-why-ai-is-forcing-us-to-rethink-fraud-authentication-and-digital-trust",
+    "locale": "es-MX",
+    "previewFile": "es/post/the-new-identity-crisis-why-ai-is-forcing-us-to-rethink-fraud-authentication-and-digital-trust/index.html"
+  },
+  {
+    "productionPath": "/post/the-new-identity-crisis-why-ai-is-forcing-us-to-rethink-fraud-authentication-and-digital-trust",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/the-new-identity-crisis-why-ai-is-forcing-us-to-rethink-fraud-authentication-and-digital-trust/index.html"
+  },
+  {
+    "productionPath": "/post/what-to-do-if-you-lose-your-phone-with-mfa",
+    "locale": "en-US",
+    "previewFile": "post/what-to-do-if-you-lose-your-phone-with-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/what-to-do-if-you-lose-your-phone-with-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/post/what-to-do-if-you-lose-your-phone-with-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/what-to-do-if-you-lose-your-phone-with-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/what-to-do-if-you-lose-your-phone-with-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/the-website-looks-real-until-it-steals-your-identity",
+    "locale": "en-US",
+    "previewFile": "post/the-website-looks-real-until-it-steals-your-identity/index.html"
+  },
+  {
+    "productionPath": "/post/the-website-looks-real-until-it-steals-your-identity",
+    "locale": "es-MX",
+    "previewFile": "es/post/the-website-looks-real-until-it-steals-your-identity/index.html"
+  },
+  {
+    "productionPath": "/post/the-website-looks-real-until-it-steals-your-identity",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/the-website-looks-real-until-it-steals-your-identity/index.html"
+  },
+  {
+    "productionPath": "/post/security-risks-of-using-mfa",
+    "locale": "en-US",
+    "previewFile": "post/security-risks-of-using-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/security-risks-of-using-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/post/security-risks-of-using-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/security-risks-of-using-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/security-risks-of-using-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/sms-vs-authenticator-app-for-mfa",
+    "locale": "en-US",
+    "previewFile": "post/sms-vs-authenticator-app-for-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/sms-vs-authenticator-app-for-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/post/sms-vs-authenticator-app-for-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/sms-vs-authenticator-app-for-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/sms-vs-authenticator-app-for-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/can-employers-require-mfa-for-remote-workers",
+    "locale": "en-US",
+    "previewFile": "post/can-employers-require-mfa-for-remote-workers/index.html"
+  },
+  {
+    "productionPath": "/post/can-employers-require-mfa-for-remote-workers",
+    "locale": "es-MX",
+    "previewFile": "es/post/can-employers-require-mfa-for-remote-workers/index.html"
+  },
+  {
+    "productionPath": "/post/can-employers-require-mfa-for-remote-workers",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/can-employers-require-mfa-for-remote-workers/index.html"
+  },
+  {
+    "productionPath": "/post/hardware-key-vs-authenticator-app-for-mfa",
+    "locale": "en-US",
+    "previewFile": "post/hardware-key-vs-authenticator-app-for-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/hardware-key-vs-authenticator-app-for-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/post/hardware-key-vs-authenticator-app-for-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/hardware-key-vs-authenticator-app-for-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/hardware-key-vs-authenticator-app-for-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/information-never-use-for-security-questions",
+    "locale": "en-US",
+    "previewFile": "post/information-never-use-for-security-questions/index.html"
+  },
+  {
+    "productionPath": "/post/information-never-use-for-security-questions",
+    "locale": "es-MX",
+    "previewFile": "es/post/information-never-use-for-security-questions/index.html"
+  },
+  {
+    "productionPath": "/post/information-never-use-for-security-questions",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/information-never-use-for-security-questions/index.html"
+  },
+  {
+    "productionPath": "/post/is-biometric-authentication-better-than-app-based-mfa",
+    "locale": "en-US",
+    "previewFile": "post/is-biometric-authentication-better-than-app-based-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/is-biometric-authentication-better-than-app-based-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/post/is-biometric-authentication-better-than-app-based-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/is-biometric-authentication-better-than-app-based-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/is-biometric-authentication-better-than-app-based-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/difference-between-2fa-and-mfa-authentication-factors",
+    "locale": "en-US",
+    "previewFile": "post/difference-between-2fa-and-mfa-authentication-factors/index.html"
+  },
+  {
+    "productionPath": "/post/difference-between-2fa-and-mfa-authentication-factors",
+    "locale": "es-MX",
+    "previewFile": "es/post/difference-between-2fa-and-mfa-authentication-factors/index.html"
+  },
+  {
+    "productionPath": "/post/difference-between-2fa-and-mfa-authentication-factors",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/difference-between-2fa-and-mfa-authentication-factors/index.html"
+  },
+  {
+    "productionPath": "/post/can-my-employer-see-what-s-on-my-phone-if-i-use-mfa",
+    "locale": "en-US",
+    "previewFile": "post/can-my-employer-see-what-s-on-my-phone-if-i-use-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/can-my-employer-see-what-s-on-my-phone-if-i-use-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/post/can-my-employer-see-what-s-on-my-phone-if-i-use-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/can-my-employer-see-what-s-on-my-phone-if-i-use-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/can-my-employer-see-what-s-on-my-phone-if-i-use-mfa/index.html"
+  },
+  {
+    "productionPath": "/post/how-does-biometric-authentication-actually-work",
+    "locale": "en-US",
+    "previewFile": "post/how-does-biometric-authentication-actually-work/index.html"
+  },
+  {
+    "productionPath": "/post/how-does-biometric-authentication-actually-work",
+    "locale": "es-MX",
+    "previewFile": "es/post/how-does-biometric-authentication-actually-work/index.html"
+  },
+  {
+    "productionPath": "/post/how-does-biometric-authentication-actually-work",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/how-does-biometric-authentication-actually-work/index.html"
+  },
+  {
+    "productionPath": "/post/is-push-authentication-more-secure-than-sms",
+    "locale": "en-US",
+    "previewFile": "post/is-push-authentication-more-secure-than-sms/index.html"
+  },
+  {
+    "productionPath": "/post/is-push-authentication-more-secure-than-sms",
+    "locale": "es-MX",
+    "previewFile": "es/post/is-push-authentication-more-secure-than-sms/index.html"
+  },
+  {
+    "productionPath": "/post/is-push-authentication-more-secure-than-sms",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/is-push-authentication-more-secure-than-sms/index.html"
+  },
+  {
+    "productionPath": "/post/is-mfa-worth-the-hassle",
+    "locale": "en-US",
+    "previewFile": "post/is-mfa-worth-the-hassle/index.html"
+  },
+  {
+    "productionPath": "/post/is-mfa-worth-the-hassle",
+    "locale": "es-MX",
+    "previewFile": "es/post/is-mfa-worth-the-hassle/index.html"
+  },
+  {
+    "productionPath": "/post/is-mfa-worth-the-hassle",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/is-mfa-worth-the-hassle/index.html"
+  },
+  {
+    "productionPath": "/post/beyond-passwordless-why-strong-authentication-still-needs-strong-identity",
+    "locale": "en-US",
+    "previewFile": "post/beyond-passwordless-why-strong-authentication-still-needs-strong-identity/index.html"
+  },
+  {
+    "productionPath": "/post/beyond-passwordless-why-strong-authentication-still-needs-strong-identity",
+    "locale": "es-MX",
+    "previewFile": "es/post/beyond-passwordless-why-strong-authentication-still-needs-strong-identity/index.html"
+  },
+  {
+    "productionPath": "/post/beyond-passwordless-why-strong-authentication-still-needs-strong-identity",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/beyond-passwordless-why-strong-authentication-still-needs-strong-identity/index.html"
+  },
+  {
+    "productionPath": "/post/how-to-increase-sales-on-shopify-using-passwordfree",
+    "locale": "en-US",
+    "previewFile": "post/how-to-increase-sales-on-shopify-using-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/post/how-to-increase-sales-on-shopify-using-passwordfree",
+    "locale": "es-MX",
+    "previewFile": "es/post/how-to-increase-sales-on-shopify-using-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/post/how-to-increase-sales-on-shopify-using-passwordfree",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/how-to-increase-sales-on-shopify-using-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/post/how-to-install-passwordfree-for-passwordless-login",
+    "locale": "en-US",
+    "previewFile": "post/how-to-install-passwordfree-for-passwordless-login/index.html"
+  },
+  {
+    "productionPath": "/post/how-to-install-passwordfree-for-passwordless-login",
+    "locale": "es-MX",
+    "previewFile": "es/post/how-to-install-passwordfree-for-passwordless-login/index.html"
+  },
+  {
+    "productionPath": "/post/how-to-install-passwordfree-for-passwordless-login",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/how-to-install-passwordfree-for-passwordless-login/index.html"
+  },
+  {
+    "productionPath": "/post/passwordfree-passwordless-authentication-app-for-shopify",
+    "locale": "en-US",
+    "previewFile": "post/passwordfree-passwordless-authentication-app-for-shopify/index.html"
+  },
+  {
+    "productionPath": "/post/passwordfree-passwordless-authentication-app-for-shopify",
+    "locale": "es-MX",
+    "previewFile": "es/post/passwordfree-passwordless-authentication-app-for-shopify/index.html"
+  },
+  {
+    "productionPath": "/post/passwordfree-passwordless-authentication-app-for-shopify",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/passwordfree-passwordless-authentication-app-for-shopify/index.html"
+  },
+  {
+    "productionPath": "/post/passwordless-login-is-the-future-of-web-portals",
+    "locale": "en-US",
+    "previewFile": "post/passwordless-login-is-the-future-of-web-portals/index.html"
+  },
+  {
+    "productionPath": "/post/passwordless-login-is-the-future-of-web-portals",
+    "locale": "es-MX",
+    "previewFile": "es/post/passwordless-login-is-the-future-of-web-portals/index.html"
+  },
+  {
+    "productionPath": "/post/passwordless-login-is-the-future-of-web-portals",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/passwordless-login-is-the-future-of-web-portals/index.html"
+  },
+  {
+    "productionPath": "/post/snowflake-worst-data-breach-2024",
+    "locale": "en-US",
+    "previewFile": "post/snowflake-worst-data-breach-2024/index.html"
+  },
+  {
+    "productionPath": "/post/snowflake-worst-data-breach-2024",
+    "locale": "es-MX",
+    "previewFile": "es/post/snowflake-worst-data-breach-2024/index.html"
+  },
+  {
+    "productionPath": "/post/snowflake-worst-data-breach-2024",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/snowflake-worst-data-breach-2024/index.html"
+  },
+  {
+    "productionPath": "/post/how-to-login-without-a-password-and-email",
+    "locale": "en-US",
+    "previewFile": "post/how-to-login-without-a-password-and-email/index.html"
+  },
+  {
+    "productionPath": "/post/how-to-login-without-a-password-and-email",
+    "locale": "es-MX",
+    "previewFile": "es/post/how-to-login-without-a-password-and-email/index.html"
+  },
+  {
+    "productionPath": "/post/how-to-login-without-a-password-and-email",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/how-to-login-without-a-password-and-email/index.html"
+  },
+  {
+    "productionPath": "/post/data-breach-report-explained-by-a-cyber-security-engineer",
+    "locale": "en-US",
+    "previewFile": "post/data-breach-report-explained-by-a-cyber-security-engineer/index.html"
+  },
+  {
+    "productionPath": "/post/data-breach-report-explained-by-a-cyber-security-engineer",
+    "locale": "es-MX",
+    "previewFile": "es/post/data-breach-report-explained-by-a-cyber-security-engineer/index.html"
+  },
+  {
+    "productionPath": "/post/data-breach-report-explained-by-a-cyber-security-engineer",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/data-breach-report-explained-by-a-cyber-security-engineer/index.html"
+  },
+  {
+    "productionPath": "/post/how-much-does-password-reset-cost-your-company",
+    "locale": "en-US",
+    "previewFile": "post/how-much-does-password-reset-cost-your-company/index.html"
+  },
+  {
+    "productionPath": "/post/how-much-does-password-reset-cost-your-company",
+    "locale": "es-MX",
+    "previewFile": "es/post/how-much-does-password-reset-cost-your-company/index.html"
+  },
+  {
+    "productionPath": "/post/how-much-does-password-reset-cost-your-company",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/how-much-does-password-reset-cost-your-company/index.html"
+  },
+  {
+    "productionPath": "/post/identité-adds-loginfree-to-its-award-winning-passwordfree-authentication",
+    "locale": "en-US",
+    "previewFile": "post/identité-adds-loginfree-to-its-award-winning-passwordfree-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/identité-adds-loginfree-to-its-award-winning-passwordfree-authentication",
+    "locale": "es-MX",
+    "previewFile": "es/post/identité-adds-loginfree-to-its-award-winning-passwordfree-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/identité-adds-loginfree-to-its-award-winning-passwordfree-authentication",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/identité-adds-loginfree-to-its-award-winning-passwordfree-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/sms-one-time-password-authentication-is-it-still-secure",
+    "locale": "en-US",
+    "previewFile": "post/sms-one-time-password-authentication-is-it-still-secure/index.html"
+  },
+  {
+    "productionPath": "/post/sms-one-time-password-authentication-is-it-still-secure",
+    "locale": "es-MX",
+    "previewFile": "es/post/sms-one-time-password-authentication-is-it-still-secure/index.html"
+  },
+  {
+    "productionPath": "/post/sms-one-time-password-authentication-is-it-still-secure",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/sms-one-time-password-authentication-is-it-still-secure/index.html"
+  },
+  {
+    "productionPath": "/post/identite-top-identity-mfa-access-management-solutions-company-2023",
+    "locale": "en-US",
+    "previewFile": "post/identite-top-identity-mfa-access-management-solutions-company-2023/index.html"
+  },
+  {
+    "productionPath": "/post/identite-top-identity-mfa-access-management-solutions-company-2023",
+    "locale": "es-MX",
+    "previewFile": "es/post/identite-top-identity-mfa-access-management-solutions-company-2023/index.html"
+  },
+  {
+    "productionPath": "/post/identite-top-identity-mfa-access-management-solutions-company-2023",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/identite-top-identity-mfa-access-management-solutions-company-2023/index.html"
+  },
+  {
+    "productionPath": "/post/3-things-to-know-about-pci-dss-4-0-mfa-passwordfree",
+    "locale": "en-US",
+    "previewFile": "post/3-things-to-know-about-pci-dss-4-0-mfa-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/post/3-things-to-know-about-pci-dss-4-0-mfa-passwordfree",
+    "locale": "es-MX",
+    "previewFile": "es/post/3-things-to-know-about-pci-dss-4-0-mfa-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/post/3-things-to-know-about-pci-dss-4-0-mfa-passwordfree",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/3-things-to-know-about-pci-dss-4-0-mfa-passwordfree/index.html"
+  },
+  {
+    "productionPath": "/post/crowdstrike-details-new-mfa-bypass-credential-theft-attack",
+    "locale": "en-US",
+    "previewFile": "post/crowdstrike-details-new-mfa-bypass-credential-theft-attack/index.html"
+  },
+  {
+    "productionPath": "/post/crowdstrike-details-new-mfa-bypass-credential-theft-attack",
+    "locale": "es-MX",
+    "previewFile": "es/post/crowdstrike-details-new-mfa-bypass-credential-theft-attack/index.html"
+  },
+  {
+    "productionPath": "/post/crowdstrike-details-new-mfa-bypass-credential-theft-attack",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/crowdstrike-details-new-mfa-bypass-credential-theft-attack/index.html"
+  },
+  {
+    "productionPath": "/post/identité-named-top-10-mfa-tools-by-grc-outlook",
+    "locale": "en-US",
+    "previewFile": "post/identité-named-top-10-mfa-tools-by-grc-outlook/index.html"
+  },
+  {
+    "productionPath": "/post/identité-named-top-10-mfa-tools-by-grc-outlook",
+    "locale": "es-MX",
+    "previewFile": "es/post/identité-named-top-10-mfa-tools-by-grc-outlook/index.html"
+  },
+  {
+    "productionPath": "/post/identité-named-top-10-mfa-tools-by-grc-outlook",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/identité-named-top-10-mfa-tools-by-grc-outlook/index.html"
+  },
+  {
+    "productionPath": "/post/passwordfree-mfa-can-replace-captcha",
+    "locale": "en-US",
+    "previewFile": "post/passwordfree-mfa-can-replace-captcha/index.html"
+  },
+  {
+    "productionPath": "/post/passwordfree-mfa-can-replace-captcha",
+    "locale": "es-MX",
+    "previewFile": "es/post/passwordfree-mfa-can-replace-captcha/index.html"
+  },
+  {
+    "productionPath": "/post/passwordfree-mfa-can-replace-captcha",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/passwordfree-mfa-can-replace-captcha/index.html"
+  },
+  {
+    "productionPath": "/post/using-first-principles-to-redesign-password-plus-sms-otp-paradigm",
+    "locale": "en-US",
+    "previewFile": "post/using-first-principles-to-redesign-password-plus-sms-otp-paradigm/index.html"
+  },
+  {
+    "productionPath": "/post/using-first-principles-to-redesign-password-plus-sms-otp-paradigm",
+    "locale": "es-MX",
+    "previewFile": "es/post/using-first-principles-to-redesign-password-plus-sms-otp-paradigm/index.html"
+  },
+  {
+    "productionPath": "/post/using-first-principles-to-redesign-password-plus-sms-otp-paradigm",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/using-first-principles-to-redesign-password-plus-sms-otp-paradigm/index.html"
+  },
+  {
+    "productionPath": "/post/4-ways-to-avoid-online-holiday-shopping-scams",
+    "locale": "en-US",
+    "previewFile": "post/4-ways-to-avoid-online-holiday-shopping-scams/index.html"
+  },
+  {
+    "productionPath": "/post/4-ways-to-avoid-online-holiday-shopping-scams",
+    "locale": "es-MX",
+    "previewFile": "es/post/4-ways-to-avoid-online-holiday-shopping-scams/index.html"
+  },
+  {
+    "productionPath": "/post/4-ways-to-avoid-online-holiday-shopping-scams",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/4-ways-to-avoid-online-holiday-shopping-scams/index.html"
+  },
+  {
+    "productionPath": "/post/complying-with-nist-800-63-b-aal3",
+    "locale": "en-US",
+    "previewFile": "post/complying-with-nist-800-63-b-aal3/index.html"
+  },
+  {
+    "productionPath": "/post/complying-with-nist-800-63-b-aal3",
+    "locale": "es-MX",
+    "previewFile": "es/post/complying-with-nist-800-63-b-aal3/index.html"
+  },
+  {
+    "productionPath": "/post/complying-with-nist-800-63-b-aal3",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/complying-with-nist-800-63-b-aal3/index.html"
+  },
+  {
+    "productionPath": "/post/hacker-alerts",
+    "locale": "en-US",
+    "previewFile": "post/hacker-alerts/index.html"
+  },
+  {
+    "productionPath": "/post/hacker-alerts",
+    "locale": "es-MX",
+    "previewFile": "es/post/hacker-alerts/index.html"
+  },
+  {
+    "productionPath": "/post/hacker-alerts",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/hacker-alerts/index.html"
+  },
+  {
+    "productionPath": "/post/cyber-insurance-includes-mfa-in-top-security-control-requirements",
+    "locale": "en-US",
+    "previewFile": "post/cyber-insurance-includes-mfa-in-top-security-control-requirements/index.html"
+  },
+  {
+    "productionPath": "/post/cyber-insurance-includes-mfa-in-top-security-control-requirements",
+    "locale": "es-MX",
+    "previewFile": "es/post/cyber-insurance-includes-mfa-in-top-security-control-requirements/index.html"
+  },
+  {
+    "productionPath": "/post/cyber-insurance-includes-mfa-in-top-security-control-requirements",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/cyber-insurance-includes-mfa-in-top-security-control-requirements/index.html"
+  },
+  {
+    "productionPath": "/post/top-3-myths-of-passwordfree-authentication",
+    "locale": "en-US",
+    "previewFile": "post/top-3-myths-of-passwordfree-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/top-3-myths-of-passwordfree-authentication",
+    "locale": "es-MX",
+    "previewFile": "es/post/top-3-myths-of-passwordfree-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/top-3-myths-of-passwordfree-authentication",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/top-3-myths-of-passwordfree-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/what-is-sim-swapping",
+    "locale": "en-US",
+    "previewFile": "post/what-is-sim-swapping/index.html"
+  },
+  {
+    "productionPath": "/post/what-is-sim-swapping",
+    "locale": "es-MX",
+    "previewFile": "es/post/what-is-sim-swapping/index.html"
+  },
+  {
+    "productionPath": "/post/what-is-sim-swapping",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/what-is-sim-swapping/index.html"
+  },
+  {
+    "productionPath": "/post/full-duplex-authentication-fda-the-key-ingredient-in-making-user-authentication-fully-secure",
+    "locale": "en-US",
+    "previewFile": "post/full-duplex-authentication-fda-the-key-ingredient-in-making-user-authentication-fully-secure/index.html"
+  },
+  {
+    "productionPath": "/post/full-duplex-authentication-fda-the-key-ingredient-in-making-user-authentication-fully-secure",
+    "locale": "es-MX",
+    "previewFile": "es/post/full-duplex-authentication-fda-the-key-ingredient-in-making-user-authentication-fully-secure/index.html"
+  },
+  {
+    "productionPath": "/post/full-duplex-authentication-fda-the-key-ingredient-in-making-user-authentication-fully-secure",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/full-duplex-authentication-fda-the-key-ingredient-in-making-user-authentication-fully-secure/index.html"
+  },
+  {
+    "productionPath": "/post/what-is-iam",
+    "locale": "en-US",
+    "previewFile": "post/what-is-iam/index.html"
+  },
+  {
+    "productionPath": "/post/what-is-iam",
+    "locale": "es-MX",
+    "previewFile": "es/post/what-is-iam/index.html"
+  },
+  {
+    "productionPath": "/post/what-is-iam",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/what-is-iam/index.html"
+  },
+  {
+    "productionPath": "/post/understanding-and-comparing-authentication-protocols",
+    "locale": "en-US",
+    "previewFile": "post/understanding-and-comparing-authentication-protocols/index.html"
+  },
+  {
+    "productionPath": "/post/understanding-and-comparing-authentication-protocols",
+    "locale": "es-MX",
+    "previewFile": "es/post/understanding-and-comparing-authentication-protocols/index.html"
+  },
+  {
+    "productionPath": "/post/understanding-and-comparing-authentication-protocols",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/understanding-and-comparing-authentication-protocols/index.html"
+  },
+  {
+    "productionPath": "/post/improving-security-and-user-experience-for-keycloak-with-multifactor-authentication-solution",
+    "locale": "en-US",
+    "previewFile": "post/improving-security-and-user-experience-for-keycloak-with-multifactor-authentication-solution/index.html"
+  },
+  {
+    "productionPath": "/post/improving-security-and-user-experience-for-keycloak-with-multifactor-authentication-solution",
+    "locale": "es-MX",
+    "previewFile": "es/post/improving-security-and-user-experience-for-keycloak-with-multifactor-authentication-solution/index.html"
+  },
+  {
+    "productionPath": "/post/improving-security-and-user-experience-for-keycloak-with-multifactor-authentication-solution",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/improving-security-and-user-experience-for-keycloak-with-multifactor-authentication-solution/index.html"
+  },
+  {
+    "productionPath": "/post/nine-types-of-bank-fraud-that-nopass-can-prevent",
+    "locale": "en-US",
+    "previewFile": "post/nine-types-of-bank-fraud-that-nopass-can-prevent/index.html"
+  },
+  {
+    "productionPath": "/post/nine-types-of-bank-fraud-that-nopass-can-prevent",
+    "locale": "es-MX",
+    "previewFile": "es/post/nine-types-of-bank-fraud-that-nopass-can-prevent/index.html"
+  },
+  {
+    "productionPath": "/post/nine-types-of-bank-fraud-that-nopass-can-prevent",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/nine-types-of-bank-fraud-that-nopass-can-prevent/index.html"
+  },
+  {
+    "productionPath": "/post/ransomware-2021",
+    "locale": "en-US",
+    "previewFile": "post/ransomware-2021/index.html"
+  },
+  {
+    "productionPath": "/post/ransomware-2021",
+    "locale": "es-MX",
+    "previewFile": "es/post/ransomware-2021/index.html"
+  },
+  {
+    "productionPath": "/post/ransomware-2021",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/ransomware-2021/index.html"
+  },
+  {
+    "productionPath": "/post/oauth-hacks",
+    "locale": "en-US",
+    "previewFile": "post/oauth-hacks/index.html"
+  },
+  {
+    "productionPath": "/post/oauth-hacks",
+    "locale": "es-MX",
+    "previewFile": "es/post/oauth-hacks/index.html"
+  },
+  {
+    "productionPath": "/post/oauth-hacks",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/oauth-hacks/index.html"
+  },
+  {
+    "productionPath": "/post/evolving-the-remote-workforce",
+    "locale": "en-US",
+    "previewFile": "post/evolving-the-remote-workforce/index.html"
+  },
+  {
+    "productionPath": "/post/evolving-the-remote-workforce",
+    "locale": "es-MX",
+    "previewFile": "es/post/evolving-the-remote-workforce/index.html"
+  },
+  {
+    "productionPath": "/post/evolving-the-remote-workforce",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/evolving-the-remote-workforce/index.html"
+  },
+  {
+    "productionPath": "/post/is-your-organization-vulnerable-to-osint",
+    "locale": "en-US",
+    "previewFile": "post/is-your-organization-vulnerable-to-osint/index.html"
+  },
+  {
+    "productionPath": "/post/is-your-organization-vulnerable-to-osint",
+    "locale": "es-MX",
+    "previewFile": "es/post/is-your-organization-vulnerable-to-osint/index.html"
+  },
+  {
+    "productionPath": "/post/is-your-organization-vulnerable-to-osint",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/is-your-organization-vulnerable-to-osint/index.html"
+  },
+  {
+    "productionPath": "/post/kal-and-identite-join-forces-to-fight-atm-fraud",
+    "locale": "en-US",
+    "previewFile": "post/kal-and-identite-join-forces-to-fight-atm-fraud/index.html"
+  },
+  {
+    "productionPath": "/post/kal-and-identite-join-forces-to-fight-atm-fraud",
+    "locale": "es-MX",
+    "previewFile": "es/post/kal-and-identite-join-forces-to-fight-atm-fraud/index.html"
+  },
+  {
+    "productionPath": "/post/kal-and-identite-join-forces-to-fight-atm-fraud",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/kal-and-identite-join-forces-to-fight-atm-fraud/index.html"
+  },
+  {
+    "productionPath": "/post/virtually-testing-foundation-partners-with-identite-to-advance-secure-passwordless-authentication",
+    "locale": "en-US",
+    "previewFile": "post/virtually-testing-foundation-partners-with-identite-to-advance-secure-passwordless-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/virtually-testing-foundation-partners-with-identite-to-advance-secure-passwordless-authentication",
+    "locale": "es-MX",
+    "previewFile": "es/post/virtually-testing-foundation-partners-with-identite-to-advance-secure-passwordless-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/virtually-testing-foundation-partners-with-identite-to-advance-secure-passwordless-authentication",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/virtually-testing-foundation-partners-with-identite-to-advance-secure-passwordless-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/identite-releases-biometric-authentication-tool-to-eliminate-passwords-secure-transactions",
+    "locale": "en-US",
+    "previewFile": "post/identite-releases-biometric-authentication-tool-to-eliminate-passwords-secure-transactions/index.html"
+  },
+  {
+    "productionPath": "/post/identite-releases-biometric-authentication-tool-to-eliminate-passwords-secure-transactions",
+    "locale": "es-MX",
+    "previewFile": "es/post/identite-releases-biometric-authentication-tool-to-eliminate-passwords-secure-transactions/index.html"
+  },
+  {
+    "productionPath": "/post/identite-releases-biometric-authentication-tool-to-eliminate-passwords-secure-transactions",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/identite-releases-biometric-authentication-tool-to-eliminate-passwords-secure-transactions/index.html"
+  },
+  {
+    "productionPath": "/post/identite-unveils-gesture-biometrics-based-authentication-solutions",
+    "locale": "en-US",
+    "previewFile": "post/identite-unveils-gesture-biometrics-based-authentication-solutions/index.html"
+  },
+  {
+    "productionPath": "/post/identite-unveils-gesture-biometrics-based-authentication-solutions",
+    "locale": "es-MX",
+    "previewFile": "es/post/identite-unveils-gesture-biometrics-based-authentication-solutions/index.html"
+  },
+  {
+    "productionPath": "/post/identite-unveils-gesture-biometrics-based-authentication-solutions",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/identite-unveils-gesture-biometrics-based-authentication-solutions/index.html"
+  },
+  {
+    "productionPath": "/post/top-three-ways-hackers-get-around-authentication",
+    "locale": "en-US",
+    "previewFile": "post/top-three-ways-hackers-get-around-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/top-three-ways-hackers-get-around-authentication",
+    "locale": "es-MX",
+    "previewFile": "es/post/top-three-ways-hackers-get-around-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/top-three-ways-hackers-get-around-authentication",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/top-three-ways-hackers-get-around-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/escalating-security-concerns-in-the-post-covid-world",
+    "locale": "en-US",
+    "previewFile": "post/escalating-security-concerns-in-the-post-covid-world/index.html"
+  },
+  {
+    "productionPath": "/post/escalating-security-concerns-in-the-post-covid-world",
+    "locale": "es-MX",
+    "previewFile": "es/post/escalating-security-concerns-in-the-post-covid-world/index.html"
+  },
+  {
+    "productionPath": "/post/escalating-security-concerns-in-the-post-covid-world",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/escalating-security-concerns-in-the-post-covid-world/index.html"
+  },
+  {
+    "productionPath": "/post/security-startups-bid-to-remove-password-authentication",
+    "locale": "en-US",
+    "previewFile": "post/security-startups-bid-to-remove-password-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/security-startups-bid-to-remove-password-authentication",
+    "locale": "es-MX",
+    "previewFile": "es/post/security-startups-bid-to-remove-password-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/security-startups-bid-to-remove-password-authentication",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/security-startups-bid-to-remove-password-authentication/index.html"
+  },
+  {
+    "productionPath": "/post/3-reasons-passwords-need-to-die-in-2020",
+    "locale": "en-US",
+    "previewFile": "post/3-reasons-passwords-need-to-die-in-2020/index.html"
+  },
+  {
+    "productionPath": "/post/3-reasons-passwords-need-to-die-in-2020",
+    "locale": "es-MX",
+    "previewFile": "es/post/3-reasons-passwords-need-to-die-in-2020/index.html"
+  },
+  {
+    "productionPath": "/post/3-reasons-passwords-need-to-die-in-2020",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/3-reasons-passwords-need-to-die-in-2020/index.html"
+  },
+  {
+    "productionPath": "/post/let-s-be-bold-and-eliminate-passwords-forever",
+    "locale": "en-US",
+    "previewFile": "post/let-s-be-bold-and-eliminate-passwords-forever/index.html"
+  },
+  {
+    "productionPath": "/post/let-s-be-bold-and-eliminate-passwords-forever",
+    "locale": "es-MX",
+    "previewFile": "es/post/let-s-be-bold-and-eliminate-passwords-forever/index.html"
+  },
+  {
+    "productionPath": "/post/let-s-be-bold-and-eliminate-passwords-forever",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/let-s-be-bold-and-eliminate-passwords-forever/index.html"
+  },
+  {
+    "productionPath": "/post/identité-announces-nopass-mfa-authentication-solution",
+    "locale": "en-US",
+    "previewFile": "post/identité-announces-nopass-mfa-authentication-solution/index.html"
+  },
+  {
+    "productionPath": "/post/identité-announces-nopass-mfa-authentication-solution",
+    "locale": "es-MX",
+    "previewFile": "es/post/identité-announces-nopass-mfa-authentication-solution/index.html"
+  },
+  {
+    "productionPath": "/post/identité-announces-nopass-mfa-authentication-solution",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/identité-announces-nopass-mfa-authentication-solution/index.html"
+  },
+  {
+    "productionPath": "/post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless-1",
+    "locale": "en-US",
+    "previewFile": "post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless-1/index.html"
+  },
+  {
+    "productionPath": "/post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless-1",
+    "locale": "es-MX",
+    "previewFile": "es/post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless-1/index.html"
+  },
+  {
+    "productionPath": "/post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless-1",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless-1/index.html"
+  },
+  {
+    "productionPath": "/post/identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless",
+    "locale": "en-US",
+    "previewFile": "post/identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless/index.html"
+  },
+  {
+    "productionPath": "/post/identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless",
+    "locale": "es-MX",
+    "previewFile": "es/post/identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless/index.html"
+  },
+  {
+    "productionPath": "/post/identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless/index.html"
+  },
+  {
+    "productionPath": "/post/daon-adds-biometric-nodes-to-forgerock-integration-identité-launches-passwordless-3fa",
+    "locale": "en-US",
+    "previewFile": "post/daon-adds-biometric-nodes-to-forgerock-integration-identité-launches-passwordless-3fa/index.html"
+  },
+  {
+    "productionPath": "/post/daon-adds-biometric-nodes-to-forgerock-integration-identité-launches-passwordless-3fa",
+    "locale": "es-MX",
+    "previewFile": "es/post/daon-adds-biometric-nodes-to-forgerock-integration-identité-launches-passwordless-3fa/index.html"
+  },
+  {
+    "productionPath": "/post/daon-adds-biometric-nodes-to-forgerock-integration-identité-launches-passwordless-3fa",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/daon-adds-biometric-nodes-to-forgerock-integration-identité-launches-passwordless-3fa/index.html"
+  },
+  {
+    "productionPath": "/post/two-security-startups-independently-chip-away-at-passwords",
+    "locale": "en-US",
+    "previewFile": "post/two-security-startups-independently-chip-away-at-passwords/index.html"
+  },
+  {
+    "productionPath": "/post/two-security-startups-independently-chip-away-at-passwords",
+    "locale": "es-MX",
+    "previewFile": "es/post/two-security-startups-independently-chip-away-at-passwords/index.html"
+  },
+  {
+    "productionPath": "/post/two-security-startups-independently-chip-away-at-passwords",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/two-security-startups-independently-chip-away-at-passwords/index.html"
+  },
+  {
+    "productionPath": "/post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless",
+    "locale": "en-US",
+    "previewFile": "post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless/index.html"
+  },
+  {
+    "productionPath": "/post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless",
+    "locale": "es-MX",
+    "previewFile": "es/post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless/index.html"
+  },
+  {
+    "productionPath": "/post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/security-newcomer-identité-introduces-nopass-to-make-authentication-simple-secure-and-passwordless/index.html"
+  },
+  {
+    "productionPath": "/post/identité-comes-out-of-stealth",
+    "locale": "en-US",
+    "previewFile": "post/identité-comes-out-of-stealth/index.html"
+  },
+  {
+    "productionPath": "/post/identité-comes-out-of-stealth",
+    "locale": "es-MX",
+    "previewFile": "es/post/identité-comes-out-of-stealth/index.html"
+  },
+  {
+    "productionPath": "/post/identité-comes-out-of-stealth",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/identité-comes-out-of-stealth/index.html"
+  },
+  {
+    "productionPath": "/post/news-2",
+    "locale": "en-US",
+    "previewFile": "post/news-2/index.html"
+  },
+  {
+    "productionPath": "/post/news-2",
+    "locale": "es-MX",
+    "previewFile": "es/post/news-2/index.html"
+  },
+  {
+    "productionPath": "/post/news-2",
+    "locale": "pt-BR",
+    "previewFile": "pt/post/news-2/index.html"
+  },
+  {
+    "productionPath": "/blog",
+    "locale": "en-US",
+    "previewFile": "blog/index.html"
+  },
+  {
+    "productionPath": "/press",
+    "locale": "en-US",
+    "previewFile": "press/index.html"
+  },
+  {
+    "productionPath": "/es/blog/categories/full-duplex-authentication-3",
+    "locale": "en-US",
+    "previewFile": "es/blog/categories/full-duplex-authentication-3/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog",
+    "locale": "en-US",
+    "previewFile": "blog/categories/identité-blog/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-press",
+    "locale": "en-US",
+    "previewFile": "blog/categories/identité-press/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-news",
+    "locale": "en-US",
+    "previewFile": "blog/categories/identité-news/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/mfa-compliance",
+    "locale": "en-US",
+    "previewFile": "blog/categories/mfa-compliance/index.html"
+  },
+  {
+    "productionPath": "/blog/general-discussions/ransomware-2021",
+    "locale": "en-US",
+    "previewFile": "blog/general-discussions/ransomware-2021/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/1",
+    "locale": "en-US",
+    "previewFile": "blog/hashtags/1/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/2",
+    "locale": "en-US",
+    "previewFile": "blog/hashtags/2/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/3",
+    "locale": "en-US",
+    "previewFile": "blog/hashtags/3/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/4",
+    "locale": "en-US",
+    "previewFile": "blog/hashtags/4/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/5",
+    "locale": "en-US",
+    "previewFile": "blog/hashtags/5/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/6",
+    "locale": "en-US",
+    "previewFile": "blog/hashtags/6/index.html"
+  },
+  {
+    "productionPath": "/blog/news-1",
+    "locale": "en-US",
+    "previewFile": "blog/news-1/index.html"
+  },
+  {
+    "productionPath": "/blog/news-2",
+    "locale": "en-US",
+    "previewFile": "blog/news-2/index.html"
+  },
+  {
+    "productionPath": "/blog/password-less-tech",
+    "locale": "en-US",
+    "previewFile": "blog/password-less-tech/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication",
+    "locale": "en-US",
+    "previewFile": "blog/tags/authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-1",
+    "locale": "en-US",
+    "previewFile": "blog/tags/authentication-1/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-compliance-update",
+    "locale": "en-US",
+    "previewFile": "blog/tags/authentication-compliance-update/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-factors",
+    "locale": "en-US",
+    "previewFile": "blog/tags/authentication-factors/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-guidelines",
+    "locale": "en-US",
+    "previewFile": "blog/tags/authentication-guidelines/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/captcha",
+    "locale": "en-US",
+    "previewFile": "blog/tags/captcha/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/continuous-authentication",
+    "locale": "en-US",
+    "previewFile": "blog/tags/continuous-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/credentials-related-breaches",
+    "locale": "en-US",
+    "previewFile": "blog/tags/credentials-related-breaches/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/cyber-security-news",
+    "locale": "en-US",
+    "previewFile": "blog/tags/cyber-security-news/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/cyberinsurance",
+    "locale": "en-US",
+    "previewFile": "blog/tags/cyberinsurance/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/data-breaches",
+    "locale": "en-US",
+    "previewFile": "blog/tags/data-breaches/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/digital-trust",
+    "locale": "en-US",
+    "previewFile": "blog/tags/digital-trust/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/ecommerce",
+    "locale": "en-US",
+    "previewFile": "blog/tags/ecommerce/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/eliminatephishing",
+    "locale": "en-US",
+    "previewFile": "blog/tags/eliminatephishing/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/full-duplex-authentication",
+    "locale": "en-US",
+    "previewFile": "blog/tags/full-duplex-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/hacker-alerts",
+    "locale": "en-US",
+    "previewFile": "blog/tags/hacker-alerts/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/identite",
+    "locale": "en-US",
+    "previewFile": "blog/tags/identite/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/identity-security",
+    "locale": "en-US",
+    "previewFile": "blog/tags/identity-security/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa",
+    "locale": "en-US",
+    "previewFile": "blog/tags/mfa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa-tools",
+    "locale": "en-US",
+    "previewFile": "blog/tags/mfa-tools/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/nist",
+    "locale": "en-US",
+    "previewFile": "blog/tags/nist/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/nist-800-63-b",
+    "locale": "en-US",
+    "previewFile": "blog/tags/nist-800-63-b/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/nomorepasswords",
+    "locale": "en-US",
+    "previewFile": "blog/tags/nomorepasswords/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passkeys",
+    "locale": "en-US",
+    "previewFile": "blog/tags/passkeys/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordfree",
+    "locale": "en-US",
+    "previewFile": "blog/tags/passwordfree/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordfree-authentication",
+    "locale": "en-US",
+    "previewFile": "blog/tags/passwordfree-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless",
+    "locale": "en-US",
+    "previewFile": "blog/tags/passwordless/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless-authentication",
+    "locale": "en-US",
+    "previewFile": "blog/tags/passwordless-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless-login",
+    "locale": "en-US",
+    "previewFile": "blog/tags/passwordless-login/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/pci-dss-4-0-mfa",
+    "locale": "en-US",
+    "previewFile": "blog/tags/pci-dss-4-0-mfa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing",
+    "locale": "en-US",
+    "previewFile": "blog/tags/phishing/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing-1",
+    "locale": "en-US",
+    "previewFile": "blog/tags/phishing-1/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing-resistance",
+    "locale": "en-US",
+    "previewFile": "blog/tags/phishing-resistance/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/shopify",
+    "locale": "en-US",
+    "previewFile": "blog/tags/shopify/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/tampa",
+    "locale": "en-US",
+    "previewFile": "blog/tags/tampa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/top-10-mfa",
+    "locale": "en-US",
+    "previewFile": "blog/tags/top-10-mfa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/ux",
+    "locale": "en-US",
+    "previewFile": "blog/tags/ux/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/zero-trust",
+    "locale": "en-US",
+    "previewFile": "blog/tags/zero-trust/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/2",
+    "locale": "en-US",
+    "previewFile": "blog/categories/identité-blog/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/3",
+    "locale": "en-US",
+    "previewFile": "blog/categories/identité-blog/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/4",
+    "locale": "en-US",
+    "previewFile": "blog/categories/identité-blog/page/4/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/5",
+    "locale": "en-US",
+    "previewFile": "blog/categories/identité-blog/page/5/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-press/page/2",
+    "locale": "en-US",
+    "previewFile": "blog/categories/identité-press/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-press/page/3",
+    "locale": "en-US",
+    "previewFile": "blog/categories/identité-press/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication/page/2",
+    "locale": "en-US",
+    "previewFile": "blog/tags/authentication/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication/page/3",
+    "locale": "en-US",
+    "previewFile": "blog/tags/authentication/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication/page/4",
+    "locale": "en-US",
+    "previewFile": "blog/tags/authentication/page/4/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/full-duplex-authentication/page/2",
+    "locale": "en-US",
+    "previewFile": "blog/tags/full-duplex-authentication/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/full-duplex-authentication/page/3",
+    "locale": "en-US",
+    "previewFile": "blog/tags/full-duplex-authentication/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/identite/page/2",
+    "locale": "en-US",
+    "previewFile": "blog/tags/identite/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa/page/2",
+    "locale": "en-US",
+    "previewFile": "blog/tags/mfa/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa/page/3",
+    "locale": "en-US",
+    "previewFile": "blog/tags/mfa/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa/page/4",
+    "locale": "en-US",
+    "previewFile": "blog/tags/mfa/page/4/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordfree/page/2",
+    "locale": "en-US",
+    "previewFile": "blog/tags/passwordfree/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless/page/2",
+    "locale": "en-US",
+    "previewFile": "blog/tags/passwordless/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless/page/3",
+    "locale": "en-US",
+    "previewFile": "blog/tags/passwordless/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing/page/2",
+    "locale": "en-US",
+    "previewFile": "blog/tags/phishing/page/2/index.html"
+  },
+  {
+    "productionPath": "/press/page/2",
+    "locale": "en-US",
+    "previewFile": "press/page/2/index.html"
+  },
+  {
+    "productionPath": "/press/page/3",
+    "locale": "en-US",
+    "previewFile": "press/page/3/index.html"
+  },
+  {
+    "productionPath": "/press/page/4",
+    "locale": "en-US",
+    "previewFile": "press/page/4/index.html"
+  },
+  {
+    "productionPath": "/press/page/5",
+    "locale": "en-US",
+    "previewFile": "press/page/5/index.html"
+  },
+  {
+    "productionPath": "/press/page/6",
+    "locale": "en-US",
+    "previewFile": "press/page/6/index.html"
+  },
+  {
+    "productionPath": "/press/page/7",
+    "locale": "en-US",
+    "previewFile": "press/page/7/index.html"
+  },
+  {
+    "productionPath": "/press/page/8",
+    "locale": "en-US",
+    "previewFile": "press/page/8/index.html"
+  },
+  {
+    "productionPath": "/blog",
+    "locale": "es-MX",
+    "previewFile": "es/blog/index.html"
+  },
+  {
+    "productionPath": "/press",
+    "locale": "es-MX",
+    "previewFile": "es/press/index.html"
+  },
+  {
+    "productionPath": "/es/blog/categories/full-duplex-authentication-3",
+    "locale": "es-MX",
+    "previewFile": "es/es/blog/categories/full-duplex-authentication-3/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog",
+    "locale": "es-MX",
+    "previewFile": "es/blog/categories/identité-blog/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-press",
+    "locale": "es-MX",
+    "previewFile": "es/blog/categories/identité-press/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-news",
+    "locale": "es-MX",
+    "previewFile": "es/blog/categories/identité-news/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/mfa-compliance",
+    "locale": "es-MX",
+    "previewFile": "es/blog/categories/mfa-compliance/index.html"
+  },
+  {
+    "productionPath": "/blog/general-discussions/ransomware-2021",
+    "locale": "es-MX",
+    "previewFile": "es/blog/general-discussions/ransomware-2021/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/1",
+    "locale": "es-MX",
+    "previewFile": "es/blog/hashtags/1/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/hashtags/2/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/3",
+    "locale": "es-MX",
+    "previewFile": "es/blog/hashtags/3/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/4",
+    "locale": "es-MX",
+    "previewFile": "es/blog/hashtags/4/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/5",
+    "locale": "es-MX",
+    "previewFile": "es/blog/hashtags/5/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/6",
+    "locale": "es-MX",
+    "previewFile": "es/blog/hashtags/6/index.html"
+  },
+  {
+    "productionPath": "/blog/news-1",
+    "locale": "es-MX",
+    "previewFile": "es/blog/news-1/index.html"
+  },
+  {
+    "productionPath": "/blog/news-2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/news-2/index.html"
+  },
+  {
+    "productionPath": "/blog/password-less-tech",
+    "locale": "es-MX",
+    "previewFile": "es/blog/password-less-tech/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-1",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/authentication-1/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-compliance-update",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/authentication-compliance-update/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-factors",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/authentication-factors/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-guidelines",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/authentication-guidelines/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/captcha",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/captcha/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/continuous-authentication",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/continuous-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/credentials-related-breaches",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/credentials-related-breaches/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/cyber-security-news",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/cyber-security-news/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/cyberinsurance",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/cyberinsurance/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/data-breaches",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/data-breaches/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/digital-trust",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/digital-trust/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/ecommerce",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/ecommerce/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/eliminatephishing",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/eliminatephishing/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/full-duplex-authentication",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/full-duplex-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/hacker-alerts",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/hacker-alerts/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/identite",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/identite/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/identity-security",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/identity-security/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/mfa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa-tools",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/mfa-tools/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/nist",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/nist/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/nist-800-63-b",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/nist-800-63-b/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/nomorepasswords",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/nomorepasswords/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passkeys",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/passkeys/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordfree",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/passwordfree/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordfree-authentication",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/passwordfree-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/passwordless/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless-authentication",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/passwordless-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless-login",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/passwordless-login/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/pci-dss-4-0-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/pci-dss-4-0-mfa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/phishing/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing-1",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/phishing-1/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing-resistance",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/phishing-resistance/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/shopify",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/shopify/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/tampa",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/tampa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/top-10-mfa",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/top-10-mfa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/ux",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/ux/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/zero-trust",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/zero-trust/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/categories/identité-blog/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/3",
+    "locale": "es-MX",
+    "previewFile": "es/blog/categories/identité-blog/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/4",
+    "locale": "es-MX",
+    "previewFile": "es/blog/categories/identité-blog/page/4/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/5",
+    "locale": "es-MX",
+    "previewFile": "es/blog/categories/identité-blog/page/5/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-press/page/2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/categories/identité-press/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-press/page/3",
+    "locale": "es-MX",
+    "previewFile": "es/blog/categories/identité-press/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication/page/2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/authentication/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication/page/3",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/authentication/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication/page/4",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/authentication/page/4/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/full-duplex-authentication/page/2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/full-duplex-authentication/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/full-duplex-authentication/page/3",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/full-duplex-authentication/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/identite/page/2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/identite/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa/page/2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/mfa/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa/page/3",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/mfa/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa/page/4",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/mfa/page/4/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordfree/page/2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/passwordfree/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless/page/2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/passwordless/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless/page/3",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/passwordless/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing/page/2",
+    "locale": "es-MX",
+    "previewFile": "es/blog/tags/phishing/page/2/index.html"
+  },
+  {
+    "productionPath": "/press/page/2",
+    "locale": "es-MX",
+    "previewFile": "es/press/page/2/index.html"
+  },
+  {
+    "productionPath": "/press/page/3",
+    "locale": "es-MX",
+    "previewFile": "es/press/page/3/index.html"
+  },
+  {
+    "productionPath": "/press/page/4",
+    "locale": "es-MX",
+    "previewFile": "es/press/page/4/index.html"
+  },
+  {
+    "productionPath": "/press/page/5",
+    "locale": "es-MX",
+    "previewFile": "es/press/page/5/index.html"
+  },
+  {
+    "productionPath": "/press/page/6",
+    "locale": "es-MX",
+    "previewFile": "es/press/page/6/index.html"
+  },
+  {
+    "productionPath": "/press/page/7",
+    "locale": "es-MX",
+    "previewFile": "es/press/page/7/index.html"
+  },
+  {
+    "productionPath": "/press/page/8",
+    "locale": "es-MX",
+    "previewFile": "es/press/page/8/index.html"
+  },
+  {
+    "productionPath": "/blog",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/index.html"
+  },
+  {
+    "productionPath": "/press",
+    "locale": "pt-BR",
+    "previewFile": "pt/press/index.html"
+  },
+  {
+    "productionPath": "/es/blog/categories/full-duplex-authentication-3",
+    "locale": "pt-BR",
+    "previewFile": "pt/es/blog/categories/full-duplex-authentication-3/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/categories/identité-blog/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-press",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/categories/identité-press/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-news",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/categories/identité-news/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/mfa-compliance",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/categories/mfa-compliance/index.html"
+  },
+  {
+    "productionPath": "/blog/general-discussions/ransomware-2021",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/general-discussions/ransomware-2021/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/1",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/hashtags/1/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/hashtags/2/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/3",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/hashtags/3/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/4",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/hashtags/4/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/5",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/hashtags/5/index.html"
+  },
+  {
+    "productionPath": "/blog/hashtags/6",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/hashtags/6/index.html"
+  },
+  {
+    "productionPath": "/blog/news-1",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/news-1/index.html"
+  },
+  {
+    "productionPath": "/blog/news-2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/news-2/index.html"
+  },
+  {
+    "productionPath": "/blog/password-less-tech",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/password-less-tech/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-1",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/authentication-1/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-compliance-update",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/authentication-compliance-update/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-factors",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/authentication-factors/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication-guidelines",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/authentication-guidelines/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/captcha",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/captcha/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/continuous-authentication",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/continuous-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/credentials-related-breaches",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/credentials-related-breaches/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/cyber-security-news",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/cyber-security-news/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/cyberinsurance",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/cyberinsurance/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/data-breaches",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/data-breaches/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/digital-trust",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/digital-trust/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/ecommerce",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/ecommerce/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/eliminatephishing",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/eliminatephishing/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/full-duplex-authentication",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/full-duplex-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/hacker-alerts",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/hacker-alerts/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/identite",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/identite/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/identity-security",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/identity-security/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/mfa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa-tools",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/mfa-tools/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/nist",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/nist/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/nist-800-63-b",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/nist-800-63-b/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/nomorepasswords",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/nomorepasswords/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passkeys",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/passkeys/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordfree",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/passwordfree/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordfree-authentication",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/passwordfree-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/passwordless/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless-authentication",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/passwordless-authentication/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless-login",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/passwordless-login/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/pci-dss-4-0-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/pci-dss-4-0-mfa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/phishing/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing-1",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/phishing-1/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing-resistance",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/phishing-resistance/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/shopify",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/shopify/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/tampa",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/tampa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/top-10-mfa",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/top-10-mfa/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/ux",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/ux/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/zero-trust",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/zero-trust/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/categories/identité-blog/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/3",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/categories/identité-blog/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/4",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/categories/identité-blog/page/4/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-blog/page/5",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/categories/identité-blog/page/5/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-press/page/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/categories/identité-press/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/categories/identité-press/page/3",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/categories/identité-press/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication/page/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/authentication/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication/page/3",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/authentication/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/authentication/page/4",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/authentication/page/4/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/full-duplex-authentication/page/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/full-duplex-authentication/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/full-duplex-authentication/page/3",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/full-duplex-authentication/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/identite/page/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/identite/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa/page/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/mfa/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa/page/3",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/mfa/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/mfa/page/4",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/mfa/page/4/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordfree/page/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/passwordfree/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless/page/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/passwordless/page/2/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/passwordless/page/3",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/passwordless/page/3/index.html"
+  },
+  {
+    "productionPath": "/blog/tags/phishing/page/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/blog/tags/phishing/page/2/index.html"
+  },
+  {
+    "productionPath": "/press/page/2",
+    "locale": "pt-BR",
+    "previewFile": "pt/press/page/2/index.html"
+  },
+  {
+    "productionPath": "/press/page/3",
+    "locale": "pt-BR",
+    "previewFile": "pt/press/page/3/index.html"
+  },
+  {
+    "productionPath": "/press/page/4",
+    "locale": "pt-BR",
+    "previewFile": "pt/press/page/4/index.html"
+  },
+  {
+    "productionPath": "/press/page/5",
+    "locale": "pt-BR",
+    "previewFile": "pt/press/page/5/index.html"
+  },
+  {
+    "productionPath": "/press/page/6",
+    "locale": "pt-BR",
+    "previewFile": "pt/press/page/6/index.html"
+  },
+  {
+    "productionPath": "/press/page/7",
+    "locale": "pt-BR",
+    "previewFile": "pt/press/page/7/index.html"
+  },
+  {
+    "productionPath": "/press/page/8",
+    "locale": "pt-BR",
+    "previewFile": "pt/press/page/8/index.html"
+  }
+]
