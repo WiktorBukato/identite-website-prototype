@@ -1,0 +1,12 @@
+# Identité
+
+> Identité's patented Full Duplex Authentication® brings mutual authentication to passwordless authentication for customer and workforce access, helping users recognize the connected service and the request before they approve.
+
+## Products and approach
+- [PasswordFree](https://www.identite.us/passwordfree-mfa): Help customers create an account and return to your service without another password to remember. PasswordFree brings mutual authentication into the customer sign-in experience.
+- [NoPass](https://www.identite.us/workforcepasswordlessauthentication): Give employees a clear way to authenticate and your team the tools to manage access. NoPass also supports integrated approval requests where an application needs a person’s decision before continuing.
+- [Full Duplex Authentication](https://www.identite.us/full-duplex): An organization needs to authenticate its user. The person also needs a reason to trust the service asking for approval. Full Duplex Authentication makes that relationship work in both directions.
+
+## Resources
+- [Published articles](https://www.identite.us/blog)
+- [Resources](https://www.identite.us/resources)
