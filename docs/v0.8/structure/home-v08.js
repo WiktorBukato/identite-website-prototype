@@ -4,26 +4,16 @@
   if (!home) return;
   const header = home.querySelector('.st-header');
   const motion = matchMedia('(prefers-reduced-motion: reduce)');
-  const settings = { start: 140, directionDistance: 18 };
-  let previous = scrollY, accumulated = 0, frame = 0;
+  // Position, not direction: stay compact until returning to the top band.
+  const compactAfter = 96;
+  let frame = 0;
   function updateHeader() {
     frame = 0;
-    const position = Math.max(0, scrollY), delta = position - previous;
-    if (Math.sign(delta) !== Math.sign(accumulated)) accumulated = 0;
-    accumulated += delta;
-    previous = position;
-    const interacting = header.matches(':focus-within') || header.querySelector('details[open]') || header.classList.contains('st-nav-open');
-    if (position < settings.start || interacting) header.classList.remove('v08-compact');
-    else if (Math.abs(accumulated) >= settings.directionDistance) {
-      header.classList.toggle('v08-compact', accumulated > 0);
-      accumulated = 0;
-    }
+    header.classList.toggle('v08-compact', Math.max(0, scrollY) > compactAfter);
   }
   addEventListener('scroll', () => { if (!frame) frame = requestAnimationFrame(updateHeader); }, { passive: true });
-  header.addEventListener('focusin', () => header.classList.remove('v08-compact'));
-  header.addEventListener('click', () => {
-    if (header.querySelector('details[open]') || header.classList.contains('st-nav-open')) header.classList.remove('v08-compact');
-  });
+  addEventListener('pageshow', updateHeader);
+  updateHeader();
   // Finite, once-only entrance animations; content never depends on JS to be visible.
   const cards = home.querySelectorAll('.rv-task-picker article,.rv-product-card,.rv-platforms article,.rv-checks>div,.rv-nodes>li');
   const observer = new IntersectionObserver(entries => {
