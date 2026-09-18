@@ -42,7 +42,7 @@
 .v08-home .rv-proof p{color:#c2d6de;max-width:840px}.v08-home #inspect-the-evidence .v08-glyph{color:#bae8d8;background:#ffffff0d;border-color:#ffffff26}
 .v08-home .rv-proof .st-actions{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:30px}.v08-home .rv-proof .st-actions a{padding:22px;border:1px solid #ffffff29;border-radius:14px;color:#dcf2eb;background:#ffffff05}
 .v08-home .rv-nodes{gap:14px}.v08-home .rv-nodes>li{border-color:#ded8cc;border-radius:18px;box-shadow:none;transition:transform .4s var(--v08-ease),box-shadow .4s}
-.v08-home .st-footer{background:#102e40;color:#e4eee9;border:0;border-radius:32px 32px 0 0;padding-top:60px}.v08-home .st-footer a{color:#d6e5e0}.v08-home .st-footer p{color:#afc5c9}
+.v08-home .st-footer{background:#102e40;color:#e4eee9;border:0;border-radius:32px 32px 0 0;padding-top:60px}.v08-home .st-footer strong{color:#b8d9d2}.v08-home .st-footer a{color:#d6e5e0}.v08-home .st-footer p{color:#afc5c9}
 /* One interaction language for text links, navigation, buttons and cards. */
 .v08-home a:not(.st-brand):not(.st-button):not(.st-contact){text-decoration-line:underline;text-decoration-color:currentColor;text-decoration-thickness:1px;text-underline-offset:5px;transition:color .25s,background-color .25s,text-decoration-color .25s,box-shadow .25s}
 .v08-home a:not(.st-brand):not(.st-button):not(.st-contact):hover{color:#12655c;background-color:#8fcbbb26;text-decoration-color:#258678;box-shadow:0 3px 0 #83c9b750}
